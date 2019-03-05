@@ -1,0 +1,36 @@
+
+.photo-comment > div span[data-v-6ec0d2d6]:nth-child(1) {
+    float: left;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.photo-comment > div span[data-v-6ec0d2d6]:nth-child(2) {
+    float: right;
+}
+.photo-comment[data-v-6ec0d2d6] {
+    height: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+.txt-comment[data-v-6ec0d2d6] {
+    padding: 5 5;
+}
+.txt-comment textarea[data-v-6ec0d2d6] {
+    margin-bottom: 5px;
+}
+.comment-list li[data-v-6ec0d2d6] {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+li[data-v-6ec0d2d6] {
+    list-style: none;
+}
+ul[data-v-6ec0d2d6] {
+    margin: 0;
+    padding: 0;
+}
+
+

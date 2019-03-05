@@ -1,0 +1,39 @@
+
+.tmpl[data-v-6bb3f38a]{
+    overflow: scroll;
+}
+.mui-table-view.mui-grid-view .mui-table-view-cell > a[data-v-6bb3f38a]:not(.mui-btn) {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #5c5c5c;
+    box-shadow: 0 0 4px #666;
+}
+.sell > span[data-v-6bb3f38a] {
+    float: left;
+    color: red;
+    text-align: left;
+}
+.detail >.hot[data-v-6bb3f38a] {
+    float: left;
+    text-align: left;
+    font-size: 15px;
+}
+.detail >.count[data-v-6bb3f38a] {
+    float: right;
+    text-align: right;
+    font-size: 15px;
+}
+
+
+/*撑开，去除浮动没有的高度*/
+.detail[data-v-6bb3f38a] {
+    overflow: hidden;
+}
+.desc[data-v-6bb3f38a] {
+    color: rgba(92, 92, 92, 0.8);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.mui-table-view.mui-grid-view .mui-table-view-cell .mui-media-object[data-v-6bb3f38a] {
+    height: 200px;
+}
+

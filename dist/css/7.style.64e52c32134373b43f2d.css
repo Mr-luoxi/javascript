@@ -1,0 +1,109 @@
+
+.ball-enter-active[data-v-77a821a4] {
+    animation: bounce-in-data-v-77a821a4 1.5s;
+}
+@keyframes bounce-in-data-v-77a821a4 {
+0% {
+        transform: translate3d(0, 0, 0);
+}
+50% {
+        transform: translate3d(120px, -50px, 0);
+}
+75% {
+        transform: translate3d(140px, 0px, 0);
+}
+100% {
+        transform: translate3d(120px, 300px, 0);
+}
+}
+.swiper[data-v-77a821a4] {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 8px;
+    width: 95%;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.outer-swiper[data-v-77a821a4],
+.product-desc[data-v-77a821a4],
+.product-props[data-v-77a821a4],
+.product-info[data-v-77a821a4] {
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 3px;
+}
+
+
+/*请ulpadding*/
+.outer-swiper ul[data-v-77a821a4],
+.product-desc ul[data-v-77a821a4],
+.product-props ul[data-v-77a821a4],
+.product-info ul[data-v-77a821a4] {
+    padding: 0;
+}
+.product-desc ul li[data-v-77a821a4],
+.product-props ul li[data-v-77a821a4],
+.product-info ul li[data-v-77a821a4] {
+    list-style: none;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 8px;
+}
+.product-desc ul >:nth-child(1) span[data-v-77a821a4] {
+    color: blue;
+    font-size: 22px;
+    font-weight: bold;
+}
+.product-desc ul[data-v-77a821a4] >:nth-child(1) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+.product-desc ul[data-v-77a821a4],
+.product-info ul[data-v-77a821a4],
+.product-props ul[data-v-77a821a4] {
+    padding-left: 10px;
+}
+.price-li span[data-v-77a821a4] {
+    color: red;
+    font-size: 25px;
+}
+.price-li s[data-v-77a821a4] {
+    margin-right: 16px;
+}
+
+
+/*加减*/
+.number-li span[data-v-77a821a4] {
+    display: inline-block;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    width: 25px;
+}
+
+
+/*商品参数*/
+.product-props ul[data-v-77a821a4] >:nth-child(1) {
+    text-align: left;
+}
+.product-props ul[data-v-77a821a4]:not(:nth-child(1)) {
+    margin-left: 40px;
+}
+.product-info ul[data-v-77a821a4] {
+    margin-bottom: 70px;
+    padding: 0 5;
+}
+.number-li span[data-v-77a821a4] {
+    text-align: center;
+}
+.number-li[data-v-77a821a4] >:nth-child(2) {
+    width: 40px;
+}
+.ball[data-v-77a821a4] {
+    border-radius: 50%;
+    background-color: red;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 440px;
+    left: 120px;
+    display: inline-block;
+    z-index: 9999;
+}
+

@@ -1,0 +1,91 @@
+
+li[data-v-da1b7474] {
+    list-style: none;
+}
+ul[data-v-da1b7474] {
+    margin: 0;
+    padding: 0;
+}
+.photo-title[data-v-da1b7474] {
+    padding-top: 5px;
+    overflow: hidden;
+}
+.photo-title[data-v-da1b7474],
+.photo-desc[data-v-da1b7474] {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+.photo-title p[data-v-da1b7474] {
+    color: #13c2f7;
+    font-size: 20px;
+    font-weight: bold;
+}
+.photo-title span[data-v-da1b7474] {
+    margin-right: 20px;
+}
+.mui-table-view.mui-grid-view.mui-grid-9[data-v-da1b7474] {
+    width: 100%;
+    background-color: white;
+    border: 0;
+}
+.mui-table-view.mui-grid-view.mui-grid-9 li[data-v-da1b7474] {
+    border: 0;
+}
+.photo-desc p[data-v-da1b7474] {
+    font-size: 18px;
+}
+.mui-table-view-cell.mui-media.mui-col-xs-4.mui-col-sm-3[data-v-da1b7474] {
+    width: 100%;
+    padding: 2 2;
+}
+.mui-table-view-cell.mui-media.mui-col-xs-4.mui-col-sm-3 img[data-v-da1b7474]{
+    width: 45%;
+    float: left;
+    margin: 5px 8px ;
+    height:100px;
+}
+ /*评论样式 开始*/
+/* .photo-comment > div span:nth-child(1) {
+    float: left;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.photo-comment > div span:nth-child(2) {
+    float: right;
+}
+
+.photo-comment {
+    height: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+
+.txt-comment {
+    padding: 5 5;
+}
+
+.txt-comment textarea {
+    margin-bottom: 5px;
+}
+
+.comment-list li {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+} */
+
+

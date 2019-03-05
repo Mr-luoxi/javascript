@@ -1,0 +1,42 @@
+
+.mui-table-view.mui-grid-view.mui-grid-9[data-v-7c66a6a2]{
+    background-color: white;
+    margin-top: 0;
+}
+.mui-table-view.mui-grid-view.mui-grid-9 li[data-v-7c66a6a2]{
+  border: 0;
+}
+/* 九宫格清除字体图标 */
+.mui-icon-home[data-v-7c66a6a2]::before,
+.mui-icon-email[data-v-7c66a6a2]::before,
+.mui-icon-chatbubble[data-v-7c66a6a2]::before,
+.mui-icon-location[data-v-7c66a6a2]::before,
+.mui-icon-search[data-v-7c66a6a2]::before,
+.mui-icon-phone[data-v-7c66a6a2]::before{
+  content: ''
+}
+/* 设置图片 */
+.mui-icon-home[data-v-7c66a6a2]{
+  background-image: url(../assets/news.png);
+}
+.mui-icon-email[data-v-7c66a6a2]{
+  background-image: url(../assets/picShare.png);
+}
+.mui-icon-chatbubble[data-v-7c66a6a2]{
+  background-image: url(../assets/goodShow.png);
+}
+.mui-icon-location[data-v-7c66a6a2]{
+  background-image: url(../assets/feedback.png);
+}
+.mui-icon-search[data-v-7c66a6a2]{
+  background-image: url(../assets/search.png);
+}
+.mui-icon-phone[data-v-7c66a6a2]{
+  background-image: url(../assets/callme.png);
+}
+.mui-icon[data-v-7c66a6a2]{
+  width: 60px;
+  height: 60px;
+  background-size: cover;
+}
+

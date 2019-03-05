@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{220:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    我是搜索页面\n")])};c._withStripped=!0;var r={},s=t(16),i=Object(s.a)(r,c,[],!1,null,"19c2e88f",null);i.options.__file="src/components/search/search.vue";n.default=i.exports}}]);
