@@ -1,0 +1,20 @@
+
+.news-title p[data-v-4355e63c] {
+    color: #0a87f8;
+    font-size: 20px;
+    font-weight: bold;
+}
+.news-title span[data-v-4355e63c] {
+    margin-right: 30px;
+}
+.news-title[data-v-4355e63c] {
+    margin-top: 5px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+
+/*主体文章的左右距离*/
+.news-content[data-v-4355e63c] {
+    padding: 10 5;
+}
+
